@@ -1,0 +1,18 @@
+# Never commit credentials or runtime customer information
+.*env
+.env*
+*.db
+*.sqlite*
+*.json
+*.csv
+*.log
+*.zip
+*.tar*
+__pycache__/
+.pytest_cache/
+monitor_data/
+reports/
+uploads/
+backups/
+node_modules/
+.venv/
