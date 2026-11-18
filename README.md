@@ -1,5 +1,7 @@
 # Web Security Workbench
 
+https://web-security-workbench-psv0.onrender.com/
+
 **AI-assisted web and API security monitoring — a mobile-first cybersecurity prototype for small businesses.**
 
 ![Version](https://img.shields.io/badge/version-5.4-3b82f6) ![Status](https://img.shields.io/badge/status-local%20prototype-f59e0b) ![Platform](https://img.shields.io/badge/platform-Android%20%2F%20Termux-14b8a6)
@@ -100,7 +102,7 @@ curl -fsS http://127.0.0.1:18771/health
 bash ~/workbench-v5.4-install/start_v5_4.sh
 ```
 
-Open **http://127.0.0.1:18771/** in the phone's browser and select **Explore demo — no sign-up**. The demo uses fictional websites, findings, and traffic; no real target is scanned.
+Open https://web-security-workbench-psv0.onrender.com/ **http://127.0.0.1:18771/** in the phone's browser and select **Explore demo — no sign-up**. The demo uses fictional websites, findings, and traffic; no real target is scanned.
 
 ### Automated regression tests
 
