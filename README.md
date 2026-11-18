@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-5.4-3b82f6) ![Status](https://img.shields.io/badge/status-local%20prototype-f59e0b) ![Platform](https://img.shields.io/badge/platform-Android%20%2F%20Termux-14b8a6)
 
-> **Project status:** Working local development prototype, **not** a production SaaS service or a validated commercial penetration-testing engine. Active vulnerability demonstrations run only against fictional localhost fixtures. No affiliation with or endorsement by Fortinet or other security vendors is claimed.
+> **Project status:** Working local development prototype, **not** a production SaaS service or a validated commercial penetration-testing engine. Active vulnerability demonstrations run only against fictional localhost fixtures.
 
 ## Overview
 
