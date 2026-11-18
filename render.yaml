@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: web-security-workbench-showcase
+    runtime: static
+    buildCommand: echo "Publishing synthetic Web Security Workbench showcase"
+    staticPublishPath: ./render-showcase
